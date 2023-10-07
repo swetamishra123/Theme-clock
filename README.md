@@ -42,3 +42,24 @@ If you want to run this project locally, you can follow these steps:
 
    ```bash
    git clone https://github.com/swetamishra123/Theme-clock.git
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Theme-clock
+3. Open the [index.html](index.html) file in your web browser.
+
+## Customization
+You can customize the appearance of the clock by modifying the CSS variables in the style.css file. For example, you can change the primary and secondary colors or adjust the fonts to suit your preferences.
+
+## Contributing
+Contributions are welcome! If you'd like to improve this project or add new features, please follow these steps:
+
+1. Fork the project.
+2. Create a new branch for your feature or improvement: git checkout -b feature-name.
+3. Make your changes and commit them: git commit -m 'Add new feature'.
+4. Push to your fork: git push origin feature-name.
+5. Open a pull request to the main repository.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
