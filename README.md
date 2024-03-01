@@ -32,7 +32,7 @@ The Theme Clock is an elegant and visually appealing clock that features a dark 
 1. Access the live demo [here](https://theme-clock-seven.vercel.app/).
 2. Toggle between light and dark mode by clicking the "Dark mode" button.
 3. Observe the clock's hands as they display the current time, including hours, minutes, and seconds.
-4. The date is shown below the clock, with the current day highlighted in a circle.
+4. The date is shown below the clock, with the current day highlighted in a circular shape.
 
 ## Installation
 
